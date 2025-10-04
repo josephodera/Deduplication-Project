@@ -1,0 +1,42 @@
+Run at: 20251004_152452
+Master rows: 2000
+New rows: 500
+Invalid phones skipped: 0
+Duplicates: 0
+Possibles: 8
+Score: 0.70
+New: {'Business Name': 'miller group', 'Address': '67880 philip ports port emilyburgh ca 74636', 'Phone Number': '8072638587', 'Website': 'millergroup.com', 'Email': 'contact@millergroup.com', 'Industry': 'Transportation', 'City': 'East Jameston', 'State': 'MT', 'Country': 'United States'}
+Master: {'Business Name': 'miller group', 'Address': '327 terri points suite 586 port peter me 96282', 'Phone Number': '7871258269', 'Website': 'millergroup.com', 'Email': 'info@millergroup.com', 'Industry': 'Transportation', 'City': 'Port Markchester', 'State': 'UT', 'Country': 'United States'}
+
+Score: 0.71
+New: {'Business Name': 'rose plc', 'Address': 'unit 7681 box 8496 dpo aa 21617', 'Phone Number': '1893152008', 'Website': 'roseplc.com', 'Email': 'contact@roseplc.com', 'Industry': 'Legal', 'City': 'New Melanieton', 'State': 'MO', 'Country': 'United States'}
+Master: {'Business Name': 'rios plc', 'Address': 'unit 4398 box 8497 dpo ae 84337', 'Phone Number': '6269833044', 'Website': 'riosplc.com', 'Email': 'info@riosplc.com', 'Industry': 'Finance', 'City': 'Marshallhaven', 'State': 'NE', 'Country': 'United States'}
+
+Score: 0.71
+New: {'Business Name': 'anderson group', 'Address': '41101 haney crossing kristinburgh mi 85299', 'Phone Number': '+18427905604', 'Website': 'andersongroup.com', 'Email': 'contact@andersongroup.com', 'Industry': 'Technology', 'City': 'Katherinemouth', 'State': 'WY', 'Country': 'United States'}
+Master: {'Business Name': 'anderson group', 'Address': '41851 dawn unions west isabellabury mi 02417', 'Phone Number': '0011430735437', 'Website': 'andersongroup.com', 'Email': 'info@andersongroup.com', 'Industry': 'Construction', 'City': 'Lake Jennifer', 'State': 'OR', 'Country': 'United States'}
+
+Score: 0.71
+New: {'Business Name': 'thomas inc', 'Address': '916 john courts east jill ok 06860', 'Phone Number': '8380683248', 'Website': 'thomasinc.com', 'Email': 'contact@thomasinc.com', 'Industry': 'Marketing', 'City': 'South Tammy', 'State': 'IL', 'Country': 'United States'}
+Master: {'Business Name': 'thomas inc', 'Address': '5112 curtis spur port kelly or 69436', 'Phone Number': '4272735280', 'Website': 'thomasinc.com', 'Email': 'info@thomasinc.com', 'Industry': 'Education', 'City': 'South Stephaniemouth', 'State': 'MA', 'Country': 'United States'}
+
+Score: 0.75
+New: {'Business Name': 'johnson plc', 'Address': '418 ortiz center apt. 219 liborough ks 43692', 'Phone Number': '+18689138621', 'Website': 'johnsonplc.com', 'Email': 'contact@johnsonplc.com', 'Industry': 'Real Estate', 'City': 'Kimberlyburgh', 'State': 'NE', 'Country': 'United States'}
+Master: {'Business Name': 'johnson plc', 'Address': '6737 scott ville kathleenborough wv 16861', 'Phone Number': '8438938671', 'Website': 'johnsonplc.com', 'Email': 'info@johnsonplc.com', 'Industry': 'Legal', 'City': 'Ballardmouth', 'State': 'TN', 'Country': 'United States'}
+
+Score: 0.71
+New: {'Business Name': 'brown group', 'Address': '41643 richard freeway apt. 447 north heidi co 35512', 'Phone Number': '8175473839', 'Website': 'browngroup.com', 'Email': 'contact@browngroup.com', 'Industry': 'Technology', 'City': 'Lake Patricia', 'State': 'ID', 'Country': 'United States'}
+Master: {'Business Name': 'brown group', 'Address': '26956 lee radial apt. 742 north hollyfort in 42822', 'Phone Number': '0014463917796', 'Website': 'browngroup.com', 'Email': 'info@browngroup.com', 'Industry': 'Agriculture', 'City': 'East Ambermouth', 'State': 'MD', 'Country': 'United States'}
+
+Score: 0.70
+New: {'Business Name': 'smith plc', 'Address': '28116 phillips village south michaelland ia 29455', 'Phone Number': '2206178865', 'Website': 'smithplc.com', 'Email': 'contact@smithplc.com', 'Industry': 'Agriculture', 'City': 'Lake Antoniochester', 'State': 'NM', 'Country': 'United States'}
+Master: {'Business Name': 'smith plc', 'Address': '411 davis island wernerport mo 58904', 'Phone Number': '+10250784693', 'Website': 'smithplc.com', 'Email': 'info@smithplc.com', 'Industry': 'Agriculture', 'City': 'Briantown', 'State': 'NJ', 'Country': 'United States'}
+
+Score: 0.74
+New: {'Business Name': 'williams inc', 'Address': '79552 newton path butlerburgh nj 76016', 'Phone Number': '1428784247', 'Website': 'williamsinc.com', 'Email': 'contact@williamsinc.com', 'Industry': 'Finance', 'City': 'Langland', 'State': 'VT', 'Country': 'United States'}
+Master: {'Business Name': 'williams inc', 'Address': '6519 shelton plains apt. 610 butlerland wi 79086', 'Phone Number': '+12742833654', 'Website': 'williamsinc.com', 'Email': 'info@williamsinc.com', 'Industry': 'Education', 'City': 'Amandaton', 'State': 'ND', 'Country': 'United States'}
+
+Uniques added: 492
+Updated master: C:\Users\ADMIN\python projects\Deduplication_project\results\updated_master_20251004_152452.xlsx
+HubSpot-ready CSV: C:\Users\ADMIN\python projects\Deduplication_project\results\hubspot_ready_new_uniques_20251004_152452.csv
+Possibles CSV: C:\Users\ADMIN\python projects\Deduplication_project\results\possibles_20251004_152452.csv
